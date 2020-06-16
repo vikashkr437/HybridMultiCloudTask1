@@ -488,16 +488,10 @@ Apply complete! Resources: 11 added, 0 changed, 0 destroyed.
 
 Outputs:
 
-cloudfront_ip = d3g4n8k27wq6m7.cloudfront.net
-ec2_ip = 13.233.116.8
+cloudfront_ip = 
+ec2_ip = 
 key_pem = -----BEGIN PUBLIC KEY-----
-MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4pGqeeAS/NAKmG55jFpJ
-8Ecr7JmCZ5tUmoDvxQ7nkHYGgzoaJCtnAfPPmqDcsaHK3rRjhBej4MPeuBI9K4dC
-qjwXl9tGSsvMgDBBPMds10JeBkr1ajCoIQTUXM2yubJEpLUzQbdyhlhfyfw8CcdS
-ALc37iCDRYJFQqsii0Qxp2+gRpoQO4mKKz5aDcU9t5ZMys9IhzuDzK/hLgzefIJG
-P5k2r05SvJwC9D+FSZCqDRwvWqTDr/NJ65S5TKQkEA/6K/8hqU91ivTRwuKGuc8a
-67arBWrA9N2yHrXpCjLw8Eh+vIjU1ktgU/qeVkULo7QlzcdK8vbTJrANXwojZSry
-RQIDAQAB
+
 -----END PUBLIC KEY-----
 
-key_ssh = ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDikap54BL80AqYbnmMWknwRyvsmYJnm1SagO/FDueQdgaDOhokK2cB88+aoNyxocretGOEF6Pgw964Ej0rh0KqPBeX20ZKy8yAMEE8x2zXQl4GSvVqMKghBNRczbK5skSktTNBt3KGWF/J/DwJx1IAtzfuIINFgkVCqyKLRDGnb6BGmhA7iYorPloNxT23lkzKz0iHO4PMr+EuDN58gkY/mTavTlK8nAL0P4VJkKoNHC9apMOv80nrlLlMpCQQD/or/yGpT3WK9NHC4oa5zxrrtqsFasD03bIetekKMvDwSH68iNTWS2BT+p5WRQujtCXNx0ry9tMmsA1fCiNlKvJF
+key_ssh = ssh-rsa 
