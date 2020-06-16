@@ -3,4 +3,4 @@
 ##### The Task1.tf file contains the code to perform the task
 ##### To run the code we use "terraform apply --auto-approve" command in the folder having the file 
 ##### Output.tf file contains the output of the above code
-Refer to this article for more info regarding it 
+Refer to this article for more info regarding it :https://www.linkedin.com/pulse/creating-aws-cloud-automation-using-terraform-vikash-kumar
